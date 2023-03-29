@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Jakubpoland
-- 👀 I’m interested in IT
-- 🌱 I’m currently learning 3D graphics
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in IT, Software Engineer-ing
+- 🌱 I’m currently learning 3D graphics and Python
+#- 💞️ I’m looking to collaborate on ...#
 - 📫 How to reach me via mail bunkiernet@gmail.com
 -
 
